@@ -1,0 +1,6 @@
+name: WorldBorderExpansion
+version: 1.0
+main: org.example.Main
+api-version: '1.20'
+commands:
+  wbe:
